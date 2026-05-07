@@ -1,4 +1,4 @@
-# NexGen IT Solutions — Free Website Template
+# Dorky IT — Free Website Template
 
 A dark, technical managed IT services website template. Near-black background with cyan and indigo accents, Space Mono headings, subtle glow effects. Built for MSPs, IT support companies, and technology consultants.
 
@@ -24,7 +24,7 @@ Free to use for any personal or commercial project. Attribution appreciated but 
 
 ### Business Details
 Search and replace throughout all HTML files:
-- `NexGen IT Solutions` → Your company name
+- `Dorky IT` → Your company name
 - `(555) 867-5309` → Your phone number
 - `info@nexgenit.com` → Your email
 - Your city/service area
