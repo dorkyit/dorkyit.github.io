@@ -15,7 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
-      - uses: actions/checkout@v3
+      #### 2026-05-17 changed to v4 because Node.js 20 and may not work as expected: actions/checkout@v3. Actions will be forced to run with Node.js 24 by default starting June 2nd, 2026.
+      - uses: actions/checkout@v4
         with:
           submodules: true
           lfs: false
